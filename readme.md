@@ -145,7 +145,9 @@ paper_agent/
 - **持久化**：本地 SQLite 存储，支持长期累积
 
 ## 📊 功能演示
-见文档图片
+见图片
+
+<img width="1107" height="796" alt="image" src="https://github.com/user-attachments/assets/7d1d3210-1ebb-4bfd-89d7-01302bbe0868" />
 
 ## 🔒 隐私与安全
 
