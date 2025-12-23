@@ -29,7 +29,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/jiansancheng/paper_agent.git
 cd paper_agent
 ```
 
@@ -189,7 +189,7 @@ A fully functional local multimodal AI assistant for semantic search, automatic 
 
 ### Quick Start
 ```bash
-git clone <repo-url>
+git clone https://github.com/jiansancheng/paper_agent.git
 cd paper_agent
 pip install -r requirements.txt
 
