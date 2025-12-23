@@ -146,8 +146,19 @@ paper_agent/
 
 ## 📊 功能演示
 见图片
-
+### 文件结构
+<img width="1107" height="585" alt="image" src="https://github.com/user-attachments/assets/a8da7900-0535-4be2-9388-e2d8f085f86c" />
+<img width="1106" height="1205" alt="image" src="https://github.com/user-attachments/assets/74c9f460-ceab-4d56-b57f-7b5abe8fcc52" />
+### 论文分类与查找功能
+<img width="1106" height="838" alt="image" src="https://github.com/user-attachments/assets/1b720ba2-7863-494a-9378-1bf62b2bf1cf" />
+<img width="1106" height="609" alt="image" src="https://github.com/user-attachments/assets/1a93faa6-7203-49f6-acb0-3a612a02b220" />
+<img width="1106" height="535" alt="image" src="https://github.com/user-attachments/assets/5685e530-4e3a-4aba-94bf-952c1046b544" />
+<img width="1107" height="243" alt="image" src="https://github.com/user-attachments/assets/8e342620-c662-417c-ad45-3dbee2f403e9" />
+### 图像匹配功能
 <img width="1107" height="796" alt="image" src="https://github.com/user-attachments/assets/7d1d3210-1ebb-4bfd-89d7-01302bbe0868" />
+
+<img width="1106" height="629" alt="image" src="https://github.com/user-attachments/assets/2b8e6cb1-c1fb-4bbe-80a1-9f4e3ff83ea5" />
+
 
 ## 🔒 隐私与安全
 
