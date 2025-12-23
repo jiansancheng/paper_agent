@@ -154,9 +154,10 @@ paper_agent/
 <img width="1106" height="609" alt="image" src="https://github.com/user-attachments/assets/1a93faa6-7203-49f6-acb0-3a612a02b220" />
 <img width="1106" height="535" alt="image" src="https://github.com/user-attachments/assets/5685e530-4e3a-4aba-94bf-952c1046b544" />
 <img width="1107" height="243" alt="image" src="https://github.com/user-attachments/assets/8e342620-c662-417c-ad45-3dbee2f403e9" />
+<img width="1108" height="255" alt="image" src="https://github.com/user-attachments/assets/4d9d8d7d-aa3d-40b2-825b-9dfad5048e43" />
+
 ### 图像匹配功能
 <img width="1107" height="796" alt="image" src="https://github.com/user-attachments/assets/7d1d3210-1ebb-4bfd-89d7-01302bbe0868" />
-
 <img width="1106" height="629" alt="image" src="https://github.com/user-attachments/assets/2b8e6cb1-c1fb-4bbe-80a1-9f4e3ff83ea5" />
 
 
